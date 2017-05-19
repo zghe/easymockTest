@@ -1,0 +1,1 @@
+CLASSPATH加入easymock.jar，cglib-2.2.jar以及easymockclassextension.jar.
